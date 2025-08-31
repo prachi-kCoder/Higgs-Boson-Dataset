@@ -28,7 +28,7 @@ The dataset consists of simulated particle collision events, each labeled as eit
 - It emphasized the importance of model selection, interpretability, and generalization—critical factors in experimental setups like those at CERN.
 - The exercise also reinforced the value of ensemble methods in handling uncertainty and variance in detector data.
 
-## 🚀 Preparation for CERN
+## 🚀 TakeAways 
 
 This notebook served as a microcosm of the challenges faced in high-energy physics research:
 - Handling imbalanced and noisy data
